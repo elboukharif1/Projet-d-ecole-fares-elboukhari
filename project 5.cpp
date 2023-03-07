@@ -1,8 +1,9 @@
-+#include <iostream>
+#include <iostream>
 
 using namespace std;
 
 int main()
+
 ///{
    //// cout << "Hello World!" << endl;
     ////return 0;
@@ -20,7 +21,7 @@ int main()
   ///cout<< "la surface est de:"<<surface <<endl;
 ///}
 
-///{   
+///{
 
 ///int tabEntiers[15]={11,34,56,98,30,25,46,12,16};
 ///cout<< tabEntiers[0]<<endl;
@@ -37,7 +38,7 @@ int main()
 ///return 0;
    /// }
 
-///{   
+///{
 ///int a (0);
 ///cout<< "quand a ete elu francois mitterand ?" <<endl;
 ///cout<< "1.le 21 mai 81"<<endl;
@@ -55,8 +56,8 @@ int main()
     ///}
 ///return 0;
   ///}
-  
-  
+
+
   {
    int debut(0);
    char op;
@@ -75,7 +76,7 @@ int main()
    }
    return 0;
    }
-  
+
 
 ///{
  ///int compteur(0);
@@ -85,11 +86,11 @@ int main()
   ///cout<<compteur<<endl;
  ///}
  ///}
- ///{   
-	///int tabEntiers[14]={11,34,56,98,30,25,46,12,16,23,12,78,56,87};
-	///for(int i=0;i<15;i++)
-	///{
-	////cout<<tabEntiers[i]<<endl;
-	 ///}
+ ///{
+    ///int tabEntiers[14]={11,34,56,98,30,25,46,12,16,23,12,78,56,87};
+    ///for(int i=0;i<15;i++)
+    ///{
+    ////cout<<tabEntiers[i]<<endl;
+     ///}
 ///return 0;
  ///}
